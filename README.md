@@ -1,1 +1,3 @@
 # real-python-test
+
+This is just a project following the RealPython tutorials. There is nothing interesting here, unless you are a noob wanting to learn python...
